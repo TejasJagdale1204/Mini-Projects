@@ -3,7 +3,7 @@
 A responsive sidebar navigation menu built with **HTML**, **CSS**, and **Font Awesome**.  
 Includes toggle functionality, menu items, and social media icons.
 
-# Features
+## Features
 
 - Toggle sidebar using hamburger button
 - Smooth hover effects on menu items and icons
@@ -11,7 +11,7 @@ Includes toggle functionality, menu items, and social media icons.
 - Background image with transparent sidebar
 - Fully responsive layout
 
-# Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
