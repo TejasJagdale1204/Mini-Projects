@@ -2,7 +2,7 @@
 
 A simple personal portfolio website built using pure HTML.
 
-# Features
+## Features
 - About section
 - Skills list
 - Projects section
@@ -11,5 +11,5 @@ A simple personal portfolio website built using pure HTML.
 - Mini quiz
 - Contact form
 
-# Tech Used
+## Tech Used
 HTML5
